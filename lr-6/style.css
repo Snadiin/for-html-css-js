@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2? family= Oswald & display=swap');
+
+.my-name {
+    font-family: 'Oswald', Georgia, Times New Roman, Times, sans-serif;
+    text-transform: uppercase;
+    color: burlywood;
+    font-style: italic;
+    background-color: brown;
+    display: grid;
+    justify-items: center;
+    margin: 0;
+    border-style: dotted;
+}
+.nni-akot-specialty{
+    font-family: Oswald, Georgia, Times New Roman, Times, sans-serif;
+    text-transform: uppercase;
+    color: burlywood;
+    font-style: italic;
+    background-color: brown;
+    display: grid;
+    justify-items: center;
+    margin: 0;
+    border-style: dotted;
+}
+.image{
+    width: 400px;
+    height: 200px;
+    border-style: groove;
+    border-color: black;
+    margin: 20px;
+}
